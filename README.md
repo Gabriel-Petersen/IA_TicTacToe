@@ -2,7 +2,7 @@
 A simple project containing two different algorithms of IAs to play TicTacToe without any (big) lib
 
 With just mathematical concepts I have created this code with the only intention to train my "logical" and "mathematical" skills (no such TensorFlow, Numpy, scikit-learn or PyTorch)
-The hole code is write in english, but the interaction with the user is entirely in portuguese (my mother-language)
+The code's variables are write in english, but the interaction with the user (like prints and comments) are entirely in portuguese (my mother language)
 It's not optimized and the heuristics are not well calibrated (The Neural Network is not even being "smart")
 Feel free to test and rewrite in your own language and with your own heuristics
 
